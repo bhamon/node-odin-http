@@ -1,3 +1,7 @@
+### v0.1.2
+
+* Odin dependency updated to [v0.1.1].
+
 ### v0.1.1
 
 * Missing express dependency added.
