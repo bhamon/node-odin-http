@@ -19,7 +19,7 @@
 		"q":"~1.0",
 		"joi":"~6.4",
 		"express":"~4.9",
-		"odin":"https://github.com/bhamon/node-odin.git"
+		"odin":"bhamon/node-odin.git#v0.1.0"
 	},
 	"devDependencies":{
 		"gulp":"~3.8",
