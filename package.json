@@ -16,9 +16,9 @@
 		"node":"~0.12"
 	},
 	"dependencies":{
-		"q":"~1.0",
-		"joi":"~6.4",
-		"express":"~4.9"
+		"q":"~1.4",
+		"joi":"~6.6",
+		"express":"~4.13"
 	},
 	"devDependencies":{
 		"gulp":"~3.8",
