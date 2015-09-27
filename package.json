@@ -1,6 +1,6 @@
 {
 	"name":"odin-http",
-	"version":"0.1.4",
+	"version":"0.2.0",
 	"description":"Odin HTTP module",
 	"author":{
 		"name":"Cryo",
@@ -13,18 +13,18 @@
 	},
 	"main":"lib/index.js",
 	"engines":{
-		"node":"~0.12"
+		"node":"~4.0"
 	},
 	"dependencies":{
-		"q":"~1.4",
 		"joi":"~6.6",
-		"express":"~4.13"
+		"express":"~4.13",
+		"odin":"bhamon/node-odin#es6"
 	},
 	"devDependencies":{
-		"gulp":"~3.8",
+		"gulp":"~3.9",
 		"gulp-mocha":"~2.1",
-		"should":"~6.0",
-		"should-promised":"~0.2",
+		"chai":"~3.2",
+		"chai-as-promised":"~5.1",
 		"gulp-jsdoc":"~0.1"
 	}
 }
