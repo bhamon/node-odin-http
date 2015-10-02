@@ -13,7 +13,7 @@
 	},
 	"main":"lib/index.js",
 	"engines":{
-		"node":"~4.0"
+		"node":"~4.1"
 	},
 	"dependencies":{
 		"joi":"~6.6",
