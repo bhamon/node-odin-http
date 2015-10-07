@@ -17,6 +17,8 @@
 	},
 	"dependencies":{
 		"joi":"~6.6",
+		"co":"~4.6",
+		"co-fs":"~1.2",
 		"express":"~4.13",
 		"odin":"bhamon/node-odin#es6"
 	},
